@@ -55,4 +55,4 @@ Compile the assets and run `Jekyll` locally:
 
 ## Credits
 
-- [Mauricio Urraco](https://github.com/murraco)
+- Original project developed by [Mauricio Urraco](https://github.com/murraco)
