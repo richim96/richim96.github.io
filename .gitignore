@@ -1,9 +1,9 @@
 # Jekyll project specifics #
-######################
+############################
+_site/
 .sass-cache/
 .jekyll-metadata
 .vscode
-_site/
 node_modules
 
 # Compiled source #
