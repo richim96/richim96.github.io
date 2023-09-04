@@ -30,17 +30,17 @@ You have to fill some informations in `_config.yml` to customize your site:
 
 ### Site settings
 ```yml
-description: A blog about lorem ipsum dolor sit amet
+description: A personal portfolio
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://localhost:4000" # the base hostname & protocol for your site
+url: "https://localhost:4080" # the base hostname & protocol for your site
 ```
 
 ### User settings
 ```yml
-username: Lorem Ipsum
-user_description: Software Engineer at Lorem Ipsum Dolor
-user_title: Mauricio Urraco
-email: mauriurraco@gmail.com
+username: lorem_ipsum
+user_description: Software Developer at Lorem Ipsum Dolor
+user_title: Lorem Ipsum
+email: loremipsum@gmail.com
 ```
 
 > Don't forget to change your URL before you deploy your site!
