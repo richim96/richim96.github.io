@@ -8,12 +8,12 @@
 
 ## Settings
 
-You have to fill some informations in `_config.yml` to customize your site:
+You ought to fill in some information in `_config.yml` to customize your site:
 
 ### Site settings
 ```yml
 description: A personal portfolio
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site
 url: "https://localhost:4080" # the base hostname & protocol for your site
 ```
 
@@ -25,7 +25,7 @@ user_title: Lorem Ipsum
 email: loremipsum@gmail.com
 ```
 
-> Don't forget to change your URL before you deploy your site!
+> Don't forget to change the URL before you deploy your site!
 
 ## Color and Particle Customization
 
@@ -50,9 +50,8 @@ You can (and should) edit the `.html` files for adding your own information, ico
 
 Compile the assets and run `Jekyll` locally:
 
-1. Install 
-2. Run `bundle install`
-3. Run `bundle exec jekyll build`
+1. Run `bundle install`
+2. Run `bundle exec jekyll build`
 
 ## Credits
 
