@@ -30,11 +30,11 @@ email: loremipsum@gmail.com
 ## Color and Particle Customization
 
 - Color Customization
-  - Edit the `.sass` variables
+  - Edit the `.scss` variables
 
 - Particle Customization
-  - Edit the json data in particle function in `app.js`
-  - Refer to `Particle.js` for help
+  - Edit the json data in particle function in `assets/js/main.js`
+  - Refer to [particles.js](https://vincentgarreau.com/particles.js/) for help
 
 ## Content
 
