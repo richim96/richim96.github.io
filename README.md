@@ -30,7 +30,7 @@ email: loremipsum@gmail.com
 ## Color and Particle Customization
 
 - Color Customization
-  - Edit the `.scss` variables
+  - Edit `main.css`
 
 - Particle Customization
   - Edit the json data in particle function in `assets/js/main.js`
