@@ -9,21 +9,25 @@
     </div>
     <!-- Icons -->
     <div class="header-icons">
-      <!-- Email -->
-      {% if site.email %}
-      <a aria-label="Send email" href="mailto:{{ site.email }}"><i class="icon fa fa-at"></i></a>
-      {% endif %}
       <!-- Linkedin -->
       {% if site.linkedin_username %}
-      <a aria-label="My LinkedIn" target="_blank" href="https://www.linkedin.com/in/{{ site.linkedin_username }}"><i class="icon fa fa-linkedin" aria-hidden="true"></i></a>
+      <a aria-label="My LinkedIn" target="_blank" href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
+        <i id="linkedin" class="icon fa-brands fa-linkedin-in" aria-hidden="true"></i>
+      </a>
       {% endif %}
       <!-- GitHub -->
       {% if site.github_username %}
-      <a aria-label="My Github" target="_blank" href="https://github.com/{{ site.github_username }}"><i class="icon fa fa-github" aria-hidden="true"></i></a>
+      <a aria-label="My Github" target="_blank" href="https://github.com/{{ site.github_username }}">
+        <i id="github" class="icon fa-brands fa-github" aria-hidden="true"></i>
+      </a>
       {% endif %}
       <!-- Resume -->
-      <a aria-label="Download resume" href="assets/riccardo_mei_cv.pdf" download><i class="icon fa fa-download"></i></a>
+      <a aria-label="Download resume" href="assets/riccardo_mei_cv.pdf" download>
+        <i id="resume" class="icon fa fa-download"></i>
+      </a>
     </div>
   </div>
-  <a class="down" href="#about" data-scroll><i class="icon fa fa-chevron-down" aria-hidden="true"></i></a>
+  <a class="arrow-down" href="#about" data-scroll>
+    <i id="arrow-icon" class="fa-solid fa-chevron-down fa-beat-fade fa-xl" aria-hidden="true"></i>
+  </a>
 </div>
