@@ -5,7 +5,7 @@ document.addEventListener(
       particlesJS("particles-js", {
         particles: {
           number: {
-            value: 200,
+            value: 125,
             density: {
               enable: true,
               value_area: 350
