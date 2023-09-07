@@ -22,7 +22,6 @@ url: "https://localhost:4080" # the base hostname & protocol for your site
 username: lorem_ipsum
 user_description: Software Developer at Lorem Ipsum Dolor
 user_title: Lorem Ipsum
-email: loremipsum@gmail.com
 ```
 
 > Don't forget to change the URL before you deploy your site!
