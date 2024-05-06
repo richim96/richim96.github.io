@@ -4,14 +4,13 @@ description: A minimalist website written in Ruby.
 
 # User settings
 username: Riccardo Mei
-user_title: software developer
+user_title: software engineer
 user_description: >
-  Hi there! I am a software developer originally from Italy, but I cannot stay still in any one country.
-  Despite a non-traditional background in software engineering, I have grown very passionate about backend and database design,
-  as well as the implementation of data pipelines. On the side, I am currently working on a mobile game and a stock-tracking app.
-  If you are interested in exploring a collaboration, feel free to reach out.
+  Hello there! I am an Italian software engineer now living in Berlin, Germany.
+  Despite a non-traditional background in software engineering, I am now making my way into the field. I have some experience analysing
+  AI systems' compliance with EU regulations, but mostly with database design (SQL/NoSQL) and the implementation of end-to-end data pipelines with Python.
+  I am now expanding my proficiency to C programming as well. If you are insterested in my profile for internships or entry-level positions, please reach out anytime.
 linkedin_username: rmei96
 github_username:  richim96
-instagram_username: _richim_
 
 exclude: ['package.json', 'node_modules', 'vendor']
