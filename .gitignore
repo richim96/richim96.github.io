@@ -1,3 +1,7 @@
+# Local
+auto
+.DS_Store
+
 # Jekyll project specifics #
 ############################
 _site/
